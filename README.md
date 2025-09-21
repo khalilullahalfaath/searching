@@ -1,6 +1,6 @@
-# Tutorial Instalasi & Setup Proyek N-Gram
+# Tutorial Instalasi & Setup Proyek Searching for Solutions
 
-<!-- Jika memakai Google Colab, bisa langsung buka file `n_gram.ipynb` di Colab tanpa perlu instalasi. -->
+Jika memakai Google Colab, bisa langsung buka file `search.ipynb` di Colab tanpa perlu instalasi.
 
 ## 1. Membuat Virtual Environment (venv)
 
